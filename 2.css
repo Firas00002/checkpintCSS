@@ -1,0 +1,85 @@
+.body {
+    background-color: black;
+  }
+  .bleu {
+    color: red;
+    background-color: black;
+  }
+  .logo{
+      width: 60px;
+      height: 60px;
+     
+  }
+
+
+
+  .me {
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    text-decoration: underline;
+  }
+  
+ .image{
+    width: 200px;
+    height: 150px;
+  } 
+  .image2{
+    width: 200px;
+    height: 150px;
+  } .image3{
+    width: 200px;
+    height: 150px;
+  } .image4{
+    width: 200px;
+    height: 150px;
+  } .image5{
+    width: 200px;
+    height: 150px;
+  } 
+  .div1:hover{
+      margin-left: 3cm;
+  } 
+  
+  .para {
+    margin-top: -1px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: red 1px solid;
+    color: black;
+    font-style: oblique;
+    text-decoration: underline;
+    background: white;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 15px;
+  }
+
+  .para1 {
+    margin-top: -1px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: red 1px solid;
+    color: black;
+    font-style: oblique;
+    text-decoration: underline;
+    background: white;
+    display: inline-block;
+    padding: 5px; 
+    border-radius: 20px;}
+ 
+  
+    .para2 {
+        margin-top: -1px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border: red 1px solid;
+        color: black;
+        font-style: oblique;
+        text-decoration: underline;
+        background: white;
+        display: inline-block;
+        padding: 5px;
+        border-radius: 15px;
+    }
+  
